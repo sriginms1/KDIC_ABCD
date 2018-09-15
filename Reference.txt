@@ -1,2 +1,33 @@
+
+
+JavaScript
+----------------------------------------
+
+
+DataTypes
+---------------------------------------
+var, let, const
+
+
+Typescript
+----------------------------------------
+> npm install -g typescript
+> TransCompilation
+
+
+JavaScript
+--------------------------------------------
+> ES6, V8 Engine
+
+
+Tools
+-------------------------------------------
+> https://babeljs.io/
+
+
+
+Libraries
+-------------------------------------------
 https://materializecss.com/
 https://getbootstrap.com/
+
