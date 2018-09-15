@@ -1,0 +1,26 @@
+.wrapper {
+    width: 450px;
+    overflow: hidden;
+    margin: auto;
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin-top: 250px;
+    border: 2px solid black
+}
+
+.wrapper input {
+    width: 400px;
+    height: 35px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.wrapper .btn-login {
+    width: 400;
+    height: 30px;
+    border-radius: 5px; 
+}
+
+h2 {
+    text-align: center;
+}
